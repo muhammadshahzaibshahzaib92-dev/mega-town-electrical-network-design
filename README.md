@@ -47,20 +47,20 @@ Capacitor bank sizing to raise the power factor from 0.7 lagging to 0.9 lagging,
 ### 6. ETAP simulation and testing
 Full one-line diagram modeled in ETAP with load flow analysis, alert summary, and bus loading summary reports, plus protection scheme testing under bus-to-bus and line-to-line fault scenarios.
 
-![ETAP One-Line Diagram](images/01_etap_one_line_diagram.png)
+![ETAP One-Line Diagram](01_etap_one_line_diagram.png)
 
-![Alert Summary Report](images/02_alert_summary_report.png)
+![Alert Summary Report](02_alert_summary_report.png)
 
-![Bus Loading Summary Report](images/03_bus_loading_summary.jpg)
+![Bus Loading Summary Report](03_bus_loading_summary.jpg)
 
 ### 7. Schematic diagram
 Hand-drawn full substation schematic showing the 132 kV busbars, incoming/outgoing lines, transformers, 11 kV feeders, and sector-wise distribution (Sectors A–F).
 
-![Schematic Diagram for New Town](images/04_schematic_diagram.jpg)
+![Schematic Diagram for New Town](04_schematic_diagram.jpg)
 
 ## Full report
 
-The complete report is available as a PDF: [report/Mega_Town_Electrical_Network_Design.pdf](report/Mega_Town_Electrical_Network_Design.pdf)
+The complete report is available as a PDF: [Mega_Town_Electrical_Network_Design.pdf](Mega_Town_Electrical_Network_Design.pdf)
 
 ## My role
 
